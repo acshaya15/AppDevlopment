@@ -1,0 +1,25 @@
+.addpost {
+  /* height:500px;
+    background-color: grey;
+   
+    text-align: center; */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background-color: grey;
+  width: 500px;
+  height: 500px;
+}
+.addpost_image {
+  margin-top: 180px;
+  margin-bottom: 30px;
+
+}
+.addpost_like_input{
+margin-right:10px;
+}
+.addpost button{
+    margin-top:20px;
+}
