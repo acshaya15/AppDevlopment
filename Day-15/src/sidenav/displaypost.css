@@ -1,0 +1,11 @@
+.post_image{
+    height:500px;
+    width:500px;
+}
+.post_caption{
+    font-size: 22px;
+    
+}
+.displaying_img li{
+    list-style: none;
+}

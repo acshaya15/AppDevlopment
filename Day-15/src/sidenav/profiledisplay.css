@@ -1,0 +1,29 @@
+.profile_img{
+    height: 70px;
+    width: 70px;
+    margin-right:60px;
+    border-radius: 30px;
+}
+.user_profile{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #ffffff;
+  padding: 20px;
+  height:250px;
+  width:500px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+.user_profile_username{
+ margin-top:-30px;
+ margin-left: 100px;
+}
+.user_profile_name{
+    font-weight: bold;
+    margin-right:40px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
